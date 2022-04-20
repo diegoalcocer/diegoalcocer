@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a social app called Nanay, where people can ask for help and volunteers can help those in need (https://nanay.app/)
-- 🌱 I’m currently learning UX, data visualization and SignalR
-- ⚡ Fun fact: I ride my bike for 40 miles every other weekend
+- 🌱 I’m currently learning Fintech and blockchain at **GW**.
+- ⚡ Fun fact: I ride my bike for 40 miles, around Washington, DC, every other weekend
