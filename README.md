@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Diego Alcocer 👋
 
 <!--
 **diegoalcocer/diegoalcocer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a social app called Nanay, where people can ask for help and volunteers can help those in need (https://nanay.app/)
-- 🌱 I’m currently learning Fintech and blockchain at **GW**.
-- ⚡ Fun fact: I ride my bike for 40 miles, around Washington, DC, every other weekend
+I'm **Diego Alcocer**, a **Senior Software Engineer and Project Manager** passionate about building impactful digital solutions.  
+
+🔭 **Current Projects**:  
+- Leading **Gaia**, a case management platform improving human rights processes at the OAS.  
+- Developing **Nanay.app**, a social platform connecting volunteers with people in need.  
+
+🌱 **Learning**:  
+- Pursuing a **Master's in Data Science** at **UC Chile** to deepen my expertise in analytics and AI-driven solutions.  
+
+⚡ **Fun Fact**:  
+I bike 40 miles around Washington, DC, every other weekend!  
