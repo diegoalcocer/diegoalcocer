@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm **Diego Alcocer**, a **Senior Software Engineer and Project Manager** passionate about building impactful digital solutions.  
 
 🔭 **Current Projects**:  
-- Leading **Gaia**, a case management platform improving human rights processes at the OAS.  
+- Leading a case management platform improving human rights processes.  
 - Developing **Nanay.app**, a social platform connecting volunteers with people in need.  
 
 🌱 **Learning**:  
